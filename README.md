@@ -9,7 +9,8 @@
 </dl>
 <hr>
 <img src="https://grs.hoshiiro.vercel.app/api/top-langs?username=hoshiiro&theme=vue-dark&hide_progress=true&langs_count=6&hide_border=true&card_width=420">
-<img src="https://grs.hoshiiro.vercel.app/api/wakatime?username=hoshiro&hide_border=true&theme=vue-dark&display_format=percent&langs_count=6&card_width=360&hide=YAML,JSON,Markdown,INI,TSConfig">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <hr>
 <img src="https://shiro.ttm.sh/nene.webp">
 <p align="center"><sup>Nene Kusanagi ©SEGA</sup></p>
