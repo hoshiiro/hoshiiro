@@ -16,6 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           SHOW_TITLE: true
+          SHOW_TOTAL: true
           LANG_COUNT: 6
           IGNORED_LANGUAGES: YAML JSON TOML Markdown INI
           STOP_AT_OTHER: true
